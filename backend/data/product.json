@@ -1,0 +1,292 @@
+[
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 799.99,
+        "description": "Latest Samsung smartphone with 5G technology.",
+        "ratings": 4.5,
+        "images": [
+          {
+            "image": "https://example.com/images/samsung-galaxy-s21.jpg"
+          }
+        ],
+        "category": "mobile phones",
+        "seller": "Samsung Official",
+        "stock": 15,
+        "numOfReviews": 120,
+        "reviews": [
+          {
+            "name": "John Doe",
+            "rating": 5,
+            "comment": "Amazing phone with great features!"
+          }
+        ]
+      },
+      
+      {
+        "name": "Apple MacBook Pro",
+        "price": 1299.99,
+        "description": "Apple MacBook Pro with M1 chip for ultimate performance.",
+        "ratings": 4.8,
+        "images": [
+          {
+            "image": "https://example.com/images/macbook-pro.jpg"
+          }
+        ],
+        "category": "laptops",
+        "seller": "Apple Store",
+        "stock": 10,
+        "numOfReviews": 250,
+        "reviews": [
+          {
+            "name": "Jane Smith",
+            "rating": 4,
+            "comment": "Great laptop but expensive!"
+          }
+        ]
+       
+      },
+      {
+        "name": "Sony WH-1000XM4",
+        "price": 349.99,
+        "description": "Noise-canceling over-ear headphones with superior sound quality.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "image": "https://example.com/images/sony-headphones.jpg"
+          }
+        ],
+        "category": "headphones",
+        "seller": "Sony Electronics",
+        "stock": 30,
+        "numOfReviews": 500,
+        "reviews": [
+          {
+            "name": "Alice Cooper",
+            "rating": 5,
+            "comment": "Best noise-canceling headphones on the market!"
+          }
+        ]
+        
+      },
+      {
+        "name": "Nike Air Max 270",
+        "price": 150.00,
+        "description": "Comfortable and stylish sports shoes for everyday wear.",
+        "ratings": 4.3,
+        "images": [
+          {
+            "image": "https://example.com/images/nike-air-max.jpg"
+          }
+        ],
+        "category": "clothes/shoes",
+        "seller": "Nike Official Store",
+        "stock": 50,
+        "numOfReviews": 75,
+        "reviews": [
+          {
+            "name": "Bob Marley",
+            "rating": 4,
+            "comment": "Very comfortable but a bit pricey."
+          }
+        ]
+      },
+      {
+        "name": "Fitbit Charge 5",
+        "price": 179.99,
+        "description": "Advanced fitness tracker with built-in GPS and health metrics.",
+        "ratings": 4.6,
+        "images": [
+          {
+            "image": "https://example.com/images/fitbit-charge-5.jpg"
+          }
+        ],
+        "category": "sports",
+        "seller": "Fitbit Store",
+        "stock": 25,
+        "numOfReviews": 300,
+        "reviews": [
+          {
+            "name": "Charlie Brown",
+            "rating": 5,
+            "comment": "Great tracker with lots of features!"
+          }
+        ]
+      },
+      {
+        "name": "Samsung QLED 4K TV",
+        "price": 899.99,
+        "description": "High-definition 4K Smart TV with vibrant QLED technology.",
+        "ratings": 4.9,
+        "images": [
+          {
+            "image": "https://example.com/images/samsung-qled-tv.jpg"
+          }
+        ],
+        "category": "electronics",
+        "seller": "Samsung Official",
+        "stock": 20,
+        "numOfReviews": 180,
+        "reviews": [
+          {
+            "name": "Mary Johnson",
+            "rating": 5,
+            "comment": "Incredible picture quality, worth the price!"
+          }
+        ]
+      },
+      {
+        "name": "Dell XPS 13",
+        "price": 1499.99,
+        "description": "Premium ultrabook with 13-inch screen and Intel i7 processor.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "image": "https://example.com/images/dell-xps-13.jpg"
+          }
+        ],
+        "category": "laptops",
+        "seller": "Dell Official Store",
+        "stock": 15,
+        "numOfReviews": 220,
+        "reviews": [
+          {
+            "name": "James Walker",
+            "rating": 4,
+            "comment": "Excellent performance but battery life could be better."
+          }
+        ]
+      },
+      {
+        "name": "Bose QuietComfort 35 II",
+        "price": 299.99,
+        "description": "Wireless noise-canceling headphones with Alexa voice control.",
+        "ratings": 4.8,
+        "images": [
+          {
+            "image": "https://example.com/images/bose-quietcomfort-35.jpg"
+          }
+        ],
+        "category": "headphones",
+        "seller": "Bose Corporation",
+        "stock": 40,
+        "numOfReviews": 350,
+        "reviews": [
+          {
+            "name": "Chris Green",
+            "rating": 5,
+            "comment": "Best noise-canceling headphones I’ve used, highly recommend!"
+          }
+        ]
+      },
+      {
+        "name": "Sony PlayStation 5",
+        "price": 499.99,
+        "description": "Next-gen gaming console with ultra-fast SSD and ray tracing support.",
+        "ratings": 4.9,
+        "images": [
+          {
+            "image": "https://example.com/images/playstation-5.jpg"
+          }
+        ],
+        "category": "electronics",
+        "seller": "Sony Electronics",
+        "stock": 60,
+        "numOfReviews": 600,
+        "reviews": [
+          {
+            "name": "Emma Taylor",
+            "rating": 5,
+            "comment": "Incredible gaming experience, worth every penny!"
+          }
+        ]
+      },
+      {
+        "name": "Under Armour Charged Bandit 7",
+        "price": 120.00,
+        "description": "Durable running shoes designed for comfort and support.",
+        "ratings": 4.6,
+        "images": [
+          {
+            "image": "https://example.com/images/under-armour-shoes.jpg"
+          }
+        ],
+        "category": "clothes/shoes",
+        "seller": "Under Armour",
+        "stock": 45,
+        "numOfReviews": 110,
+        "reviews": [
+          {
+            "name": "Rachel Adams",
+            "rating": 5,
+            "comment": "Comfortable and stylish shoes, perfect for running."
+          }
+        ]
+      },
+      {
+        "name": "Garmin Forerunner 245",
+        "price": 299.99,
+        "description": "GPS running watch with advanced metrics and heart rate monitoring.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "image": "https://example.com/images/garmin-forerunner-245.jpg"
+          }
+        ],
+        "category": "sports",
+        "seller": "Garmin Store",
+        "stock": 30,
+        "numOfReviews": 250,
+        "reviews": [
+          {
+            "name": "Tom Harris",
+            "rating": 5,
+            "comment": "Great GPS watch for runners, love the heart rate tracking!"
+          }
+        ]
+      },
+      {
+        "name": "Apple Watch Series 7",
+        "price": 399.99,
+        "description": "Smartwatch with fitness tracking, heart rate monitoring, and always-on display.",
+        "ratings": 4.8,
+        "images": [
+          {
+            "image": "https://example.com/images/apple-watch-series-7.jpg"
+          }
+        ],
+        "category": "electronics",
+        "seller": "Apple Store",
+        "stock": 35,
+        "numOfReviews": 450,
+        "reviews": [
+          {
+            "name": "Michael Lee",
+            "rating": 5,
+            "comment": "Perfect smartwatch for fitness and everyday use!"
+          }
+        ]
+      },
+      {
+        "name": "HP Spectre x360",
+        "price": 1599.99,
+        "description": "Convertible laptop with Intel i7 processor, 16GB RAM, and ultra-thin design.",
+        "ratings": 4.7,
+        "images": [
+          {
+            "image": "https://example.com/images/hp-spectre-x360.jpg"
+          }
+        ],
+        "category": "laptops",
+        "seller": "HP Store",
+        "stock": 12,
+        "numOfReviews": 200,
+        "reviews": [
+          {
+            "name": "Sophia White",
+            "rating": 5,
+            "comment": "Sleek design and powerful performance, a great laptop!"
+          }
+        ]
+      }
+      
+]
